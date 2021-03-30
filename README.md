@@ -2,7 +2,7 @@
 - Aria2 维基百科 https://zh.wikipedia.org/wiki/Aria2
 - aria2 github https://github.com/aria2
 - Aria2 新手入门教程 https://p3terx.com/archives/aria2-started-guide.html
-
+- 下载工具 aria2&&saldl
 
 ---
 
