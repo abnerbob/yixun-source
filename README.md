@@ -1,3 +1,11 @@
+# bookmarks
+- Aria2 维基百科 https://zh.wikipedia.org/wiki/Aria2
+- aria2 github https://github.com/aria2
+- Aria2 新手入门教程 https://p3terx.com/archives/aria2-started-guide.html
+
+
+---
+
 # 亿寻下载器源码
 
 看到这源码的人估计都已经知道了，【亿寻】（百度网盘文件加速下载器）作者不再继续维护该项目。
